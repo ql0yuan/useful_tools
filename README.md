@@ -31,6 +31,10 @@ https://github.com/ethz-adrl/ifopt
 
 https://github.com/tesseract-robotics/trajopt
 
+## Eigen
+
+https://en.wikipedia.org/wiki/Eigen
+
 ## Sophus : C++ implementation of Lie groups
 
 https://github.com/strasdat/Sophus
